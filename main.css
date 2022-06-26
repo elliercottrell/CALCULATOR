@@ -11,7 +11,7 @@
 
 body {
   margin: 0;
-  margin-top: -100px;
+  margin-top: -80px;
   background: darkslategray;
 }
 
@@ -27,7 +27,7 @@ body {
 .calculator-grid button {
   cursor: pointer;
   font-size: 20px;
-  border: solid 1px darkslategray;
+  border: solid 0.5px darkslategray;
   outline: none;
   background-color: palevioletred;
   transition: all 300ms ease-in-out;
